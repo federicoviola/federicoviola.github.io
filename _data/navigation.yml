@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about
   - title: "Publicaciones"
-    url: /publi/
+    url: /publi
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
